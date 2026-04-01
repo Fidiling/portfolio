@@ -5,7 +5,7 @@ const DATA = {
   title: "Computer Science Student | Security · Data · Systems",
   tagline: "Building thoughtful digital experiences — from API to interface.",
   about:
-    "I am a second year student studying server-side development and cybersecurity, I am intrested in .",
+    "I'm a second-year student specialising in server-side development and cybersecurity. While I build full-stack systems, my real passion sits at the intersection of code and security — understanding how things break and how to make them resilient. Off-screen, I play rugby for my university — same mindset: read the system, find the gaps, move fast.",
   location: "Reading",
   email: "marcferns12404@gmail.com",
   github: "https://github.com/Fidiling",
