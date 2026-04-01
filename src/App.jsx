@@ -1,16 +1,16 @@
 import { useState, useEffect } from "react";
 
 const DATA = {
-  name: "Alex Rivera",
-  title: "Full Stack Developer",
+  name: "Marc Fernandes",
+  title: "Computer Science Student | Security · Data · Systems",
   tagline: "Building thoughtful digital experiences — from API to interface.",
   about:
-    "I'm a developer who cares deeply about clean code and intuitive interfaces. With 4+ years across frontend and backend systems, I focus on performance, accessibility, and developer experience. Currently open to new opportunities.",
-  location: "San Francisco, CA",
-  email: "alex@example.com",
-  github: "github.com/alexrivera",
-  linkedin: "linkedin.com/in/alexrivera",
-  skills: ["React", "TypeScript", "Node.js", "PostgreSQL", "AWS", "Go"],
+    "I am a second year student studying server-side development and cybersecurity, I am intrested in .",
+  location: "Reading",
+  email: "marcferns12404@gmail.com",
+  github: "https://github.com/Fidiling",
+  linkedin: "www.linkedin.com/in/marc-fernandes-0377a5259",
+  skills: ["SQL", "TypeScript", "Node.js", "PostgreSQL", "RedHat system adminstration", "Linux", "Python", "Claude Code", "Git"],
   projects: [
     {
       title: "AI Phishing Detector",
